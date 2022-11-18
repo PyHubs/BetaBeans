@@ -1,0 +1,12 @@
+body {
+	overflow: hidden !important;
+}
+
+::-webkit-scrollbar {
+    display: none !important;
+}
+
+canvas {
+	width: 100% !important;
+	height: 100% !important;
+}
